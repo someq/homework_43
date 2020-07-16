@@ -11,7 +11,4 @@ Hello!
 * test
 * test
 
-klasdgkhasjdh
-askdldfhaslkdflksddfjk;df
-kasdfjlskadfj
-sdkfjalksfd
+## Here was stash example
